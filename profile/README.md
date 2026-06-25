@@ -25,7 +25,6 @@
   <img src="https://skillicons.dev/icons?i=rust,kotlin,ts,react,tauri,tailwind,supabase,postgres&theme=dark" alt="Tech Stack" />
 </p>
 
----
 
 ## What is Kivra
 
@@ -35,7 +34,6 @@ Instead of remembering only **what changed**, Kivra helps developers remember **
 
 From project structure to terminal output, Kivra keeps the context that usually disappears after development.
 
----
 
 ## Core Features
 
@@ -47,7 +45,6 @@ From project structure to terminal output, Kivra keeps the context that usually 
 - 📝 Save resolution notes
 - 🧠 Build searchable project memory
 
----
 
 ## Workflow
 
@@ -55,7 +52,6 @@ From project structure to terminal output, Kivra keeps the context that usually 
 Build → Fail → Capture → Understand → Remember → Reuse
 ```
 
----
 
 ## Technology
 
@@ -70,7 +66,6 @@ Kivra is built with a modern desktop-first stack.
 - Supabase
 - PostgreSQL
 
----
 
 ## Principles
 
@@ -80,7 +75,6 @@ Kivra is built with a modern desktop-first stack.
 - Type Safety by Default
 - Long-Term Knowledge Preservation
 
----
 
 <p align="center">
 Built for developers who never want to solve the same problem twice.
