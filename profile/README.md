@@ -53,20 +53,6 @@ Build → Fail → Capture → Understand → Remember → Reuse
 ```
 
 
-## Technology
-
-Kivra is built with a modern desktop-first stack.
-
-- Rust
-- Kotlin
-- React
-- TypeScript
-- Tauri
-- Tailwind CSS
-- Supabase
-- PostgreSQL
-
-
 ## Principles
 
 - Developer First
